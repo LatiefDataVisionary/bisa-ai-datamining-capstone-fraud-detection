@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection using Machine Learning
+# Imbalanced Credit Card Fraud Detection: A Comparative Analysis of SVM, Naïve Bayes, and K-NN
 
 ![Banner](https://i.imgur.com/your-banner-image-url.png) <!-- Opsional: Anda bisa buat banner keren di canva.com -->
 
