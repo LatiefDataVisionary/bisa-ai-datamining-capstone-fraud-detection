@@ -1,7 +1,7 @@
 # Imbalanced Credit Card Fraud Detection: A Comparative Analysis of SVM, Naïve Bayes, and K-NN
 
 <!-- Anda bisa membuat banner kustom di situs seperti canva.com dan menempelkan link gambarnya di sini -->
-<!-- Contoh: ![Project Banner](https://i.imgur.com/example.png) -->
+![Project Banner](https://i.imgur.com/example.png) -->
 
 This project provides an in-depth comparative analysis of Support Vector Machine (SVM), Naïve Bayes, and K-Nearest Neighbors (K-NN) for the task of detecting fraudulent transactions in a highly imbalanced credit card dataset. It serves as a capstone project for the "Introduction to Data Mining" course from BISA AI Academy.
 
@@ -121,8 +121,6 @@ The models' performance on the unseen test data is summarized below. The primary
 #### **Performance Visualizations:**
 
 The Precision-Recall and ROC curves below provide a visual comparison of the models' trade-offs. The SVM model's PR curve covers the largest area, confirming its superior AUPRC.
-
-*(Tempatkan gambar grafik Precision-Recall dan ROC Anda di sini. Unggah ke folder `reports/figures` dan perbarui tautan di bawah ini)*
 
 ![Precision-Recall Curve](https://github.com/LatiefDataVisionary/bisa-ai-datamining-capstone-fraud-detection/blob/main/reports/Precision-Recall%20Curve%20Comparison.png)
 ![ROC Curve](https://github.com/LatiefDataVisionary/bisa-ai-datamining-capstone-fraud-detection/blob/main/reports/ROC%20Curve%20Comparison.png)
